@@ -4,15 +4,15 @@ Welcome to the Supervised Learning in Python repository! This repository will fe
 ## Planned Topics
 The following algorithms and topics will be covered step by step in this repository. Currently, only the k-Nearest Neighbors (KNN) algorithm has been implemented, but the rest will follow soon:
 
-k-Nearest Neighbors (KNN)
-Decision Trees
-Random Forest
-Logistic Regression
-Support Vector Machines (SVM)
-Naive Bayes
-Comparison of Classification Algorithms
-Linear Regression
-Multiple Linear Regression
+k-Nearest Neighbors (KNN),
+Decision Trees,
+Random Forest,
+Logistic Regression,
+Support Vector Machines (SVM),
+Naive Bayes,
+Comparison of Classification Algorithms,
+Linear Regression,
+Multiple Linear Regression,
 Polynomial Regression
 
 ## Repository Contents
