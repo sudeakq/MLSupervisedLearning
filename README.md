@@ -24,4 +24,9 @@ A classification project where the load_breast_cancer dataset from the sklearn l
 #### RegressionKNN.py
 A regression-focused implementation of KNN. A custom dataset of random numbers is generated, and KNN is applied for regression tasks.
 
+
+### 2. Desicion Trees (DT)
+#### DT.py
+This project demonstrates the creation and evaluation of a Decision Tree model using the popular sklearn.iris dataset.A Decision Tree classifier was created and trained on the dataset.The Decision Tree structure was visualized.Features were ranked from most to least important based on their contribution to the model.
+
 Stay tuned for updates as more algorithms and projects will be added soon!
