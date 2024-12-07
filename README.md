@@ -43,7 +43,10 @@ This project aims to make predictions using a Decision Tree Regression model on 
 This project performs face recognition classification with Random Forest classifier using Olivetti Faces dataset. The faces in the dataset are classified with the Random Forest algorithm. After separating the training and test data, the accuracy of the model is calculated and the results are visualized. The project is an example of how to use the Random Forest algorithm in face recognition.
 
 #### RF_2.py
+This Python code uses the Random Forest algorithm to solve a regression problem with the California Housing dataset. The dataset is taken from the sklearn library and split 80% training and 20% testing. The model is trained on the training data and then makes predictions on the test data. Model performance is evaluated by the mean squared error (MSE) and root mean squared error (RMSE) of the predictions to the true values. The code provides a regression example for house price forecasting.
 
+### Logistic Regression(LgR.py)
+This Python script builds a logistic regression model with Heart Disease data from the UCI Machine Learning Repository. The data is extracted with the ucimlrepo library and missing values are removed. The features and target are split into 90% training and 10% testing. The logistic regression model is trained using sklearn and its accuracy on the test data is calculated. The code provides a simple classification example for heart disease detection.
 
 
 Stay tuned for updates as more algorithms and projects will be added soon!
