@@ -51,4 +51,7 @@ This Python script builds a logistic regression model with Heart Disease data fr
 ### Support Vector Machines(SVM.py)
 This Python code uses the Support Vector Machines (SVM) model to solve the digit classification problem with the load_digits dataset. The images in the dataset are visualized with matplotlib. The data is split into 80% training and 20% testing and a linear kernel SVM model is trained. Model performance is evaluated with metrics such as accuracy, recall and F1 score using classification_report.
 
+### Naive Bayes(NB.py)
+This Python code solves the classification problem using Naive Bayes algorithm on iris dataset. The dataset is taken from the sklearn library and split into 80% training and 20% testing. The Gaussian Naive Bayes model (GaussianNB) is trained with the training data and the target values in the test data are predicted. Model performance is evaluated with metrics such as accuracy, recall, F1 score with classification_report. This code provides a simple and effective example for classifying flower species.
+
 Stay tuned for updates as more algorithms and projects will be added soon!
