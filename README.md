@@ -2,7 +2,7 @@
 Welcome to the Supervised Learning in Python repository! This repository will feature projects and studies on supervised learning algorithms implemented in Python. The main goal is to understand, implement, and compare various supervised learning techniques.
 
 ## Planned Topics
-The following algorithms and topics will be covered step by step in this repository. Currently, only the k-Nearest Neighbors (KNN) algorithm has been implemented, but the rest will follow soon:
+The following algorithms and topics will be covered step by step in this repository.
 
 k-Nearest Neighbors (KNN),
 Decision Trees,
