@@ -48,5 +48,7 @@ This Python code uses the Random Forest algorithm to solve a regression problem 
 ### Logistic Regression(LgR.py)
 This Python script builds a logistic regression model with Heart Disease data from the UCI Machine Learning Repository. The data is extracted with the ucimlrepo library and missing values are removed. The features and target are split into 90% training and 10% testing. The logistic regression model is trained using sklearn and its accuracy on the test data is calculated. The code provides a simple classification example for heart disease detection.
 
+### Support Vector Machines(SVM.py)
+This Python code uses the Support Vector Machines (SVM) model to solve the digit classification problem with the load_digits dataset. The images in the dataset are visualized with matplotlib. The data is split into 80% training and 20% testing and a linear kernel SVM model is trained. Model performance is evaluated with metrics such as accuracy, recall and F1 score using classification_report.
 
 Stay tuned for updates as more algorithms and projects will be added soon!
